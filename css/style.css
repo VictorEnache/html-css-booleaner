@@ -22,3 +22,15 @@ header{
 .date {
     font-size: 12px;
 }
+
+.corto{
+    width: 25%;
+}
+
+.lungo{
+    width: 50%;
+}
+
+.data{
+    float: left;
+}
