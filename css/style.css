@@ -54,3 +54,15 @@ header{
 .lower{
    line-height: 4em;
 }
+
+#monitor{
+    background-image: url(../immagini/monitor.jpg);
+    width: 312px;
+    height: 208px;
+}
+
+#graph{
+    background-image: url(../immagini/graph.jpg);
+    width: 311px;
+    height: 207px;
+}
