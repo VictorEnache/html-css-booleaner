@@ -14,6 +14,10 @@ header{
     background-image: url(../immagini/pattern.png);
 }
 
+.autor{
+    color: #808080;
+}
+
 #logo{
     height: 5em;
     position:absolute;
@@ -30,8 +34,9 @@ header{
 
 .date {
     font-size: 12px;
-    
+    color: #808080;
 }
+
 
 .timImage{
     margin-top: 1em;
@@ -75,6 +80,7 @@ header{
     height: 208px;
     color: white;
     margin-bottom: 0.8em;
+    margin-top: 0.8em;
 }
 
 #graph{
@@ -102,4 +108,8 @@ span{
 
 body{
     margin: 0.5em;
+}
+
+h4{
+    color: #808080;
 }
