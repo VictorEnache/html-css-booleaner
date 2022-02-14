@@ -33,4 +33,18 @@ header{
 
 .data{
     float: left;
+    
+}
+.upper{
+    background-color: #20A9E5;
+    height: 1em;
+}
+
+.lightblue{
+    background-color: #B1E5F2;
+    
+}
+
+.row{
+    height: 4em;
 }
