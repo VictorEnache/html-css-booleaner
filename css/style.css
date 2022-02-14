@@ -35,9 +35,11 @@ header{
     float: left;
     
 }
-.upper{
+#upper{
     background-color: #20A9E5;
     height: 1em;
+    line-height: 1em;
+    color: white;
 }
 
 .lightblue{
@@ -47,4 +49,8 @@ header{
 
 .row{
     height: 4em;
+}
+
+.lower{
+   line-height: 4em;
 }
